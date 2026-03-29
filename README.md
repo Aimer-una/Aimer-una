@@ -18,23 +18,6 @@
   <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Aimer-una/Aimer-una/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Aimer-una/Aimer-una/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Aimer-una/Aimer-una/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-<br/>
-
-
-![](https://raw.githubusercontent.com/Aimer-una/Aimer-una/main/assets/github-contribution-grid-snake.svg)
-
-<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
-
-  
-
-</div>
-
 <!-- GitHub 贡献图 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aimer-una&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
