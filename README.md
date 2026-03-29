@@ -18,9 +18,3 @@
   <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
 </div>
 
-<!-- GitHub 贡献图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aimer-una&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
-</div>
-
-</div>
