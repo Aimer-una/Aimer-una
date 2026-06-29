@@ -4,7 +4,7 @@
 
 - 🌱 I usually use Java.
 - 😄 Love middleware and cloud native development. Keep coding...
-- 👯 I am a student at Northeastern University, majoring in IoT engineering, and expect to graduate in 2027.
+- 👯 I am a student , majoring in IoT engineering, and expect to graduate in 2027.
 
 ![Aimer-una's github stats](https://acedev003-readme-stats.vercel.app/api?username=Aimer-una&theme=tokyonight&count_private=true&show_icons=true) 
 
