@@ -5,6 +5,7 @@
 - 🌱 I usually use Java Currently learning AI applications.
 - 😄 Love middleware and cloud native development. Keep coding...
 - 👯 I am a student , majoring in IoT engineering, and expect to graduate in 2027.
+- 👋 concat me:2103095120@qq.com
 
 ![Aimer-una's github stats](https://acedev003-readme-stats.vercel.app/api?username=Aimer-una&theme=tokyonight&count_private=true&show_icons=true) 
 
