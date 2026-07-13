@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱 I usually use Java.
+- 🌱 I usually use Java Currently learning AI applications.
 - 😄 Love middleware and cloud native development. Keep coding...
 - 👯 I am a student , majoring in IoT engineering, and expect to graduate in 2027.
 
