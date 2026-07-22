@@ -24,5 +24,15 @@
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <!-- 趣味标签 -->
   <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
+  <p align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aimer-una&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aimer-una&theme=github-dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <a href="mailto:your.email@2103095120@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 </div>
 
