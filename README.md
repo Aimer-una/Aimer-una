@@ -1,11 +1,20 @@
 
-
-### Hi there 👋
-
-- 🌱 I usually use Java Currently learning AI applications.
-- 😄 Love middleware and cloud native development. Keep coding...
-- 👯 I am a student , majoring in IoT engineering, and expect to graduate in 2027.
-- 👋 concat me:2103095120@qq.com
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://avatars.githubusercontent.com/Aimer-una" width="250" />
+    </td>
+    <td width="70%">
+      <h3>Hi there 👋</h3>
+      <ul>
+        <li>🌱 I usually use Java Currently learning AI applications.</li>
+        <li>😄 Love middleware and cloud native development. Keep coding...</li>
+        <li>👯 I am a student, majoring in IoT engineering, and expect to graduate in 2027.</li>
+        <li>👋 contact me: 2103095120@qq.com</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ![Aimer-una's github stats](https://acedev003-readme-stats.vercel.app/api?username=Aimer-una&theme=tokyonight&count_private=true&show_icons=true) 
 <!-- 技术栈徽章（复用你之前的居中代码） -->
@@ -33,6 +42,3 @@
 </p>
 </div>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/Aimer-una" alt="头像" width="150" />
-</p>
