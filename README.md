@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-![Aimer-una's github stats](https://acedev003-readme-stats.vercel.app/api?username=Aimer-una&theme=tokyonight&count_private=true&show_icons=true) 
+
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div style="letter-spacing: 2px; margin: 20px 0;">
   <!-- 前端 -->
